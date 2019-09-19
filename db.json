@@ -1,26 +1,31 @@
 {
 	"affinities": {
-		"Hotel": {
-			"LG": 68.0,
-			"Whatever": 1.0,
-			"SAMSUNG": 68.0
-		},
 		"categories": {
-			"Haarstyling & Haartrockner": 1.0,
-			"Haushalt & Bad": 2.0,
-			"Staubsauger & Reiniger": 1.0,
-			"W\u00e4sche": 273.0,
-			"Haushaltsgro\u00dfger\u00e4te": 273.0,
-			"Frontlader": 272.0,
-			"Waschmaschinen": 273.0,
-			"Staubsauger mit Beutel": 1.0,
-			"SAT, Kabel & DVB-T": 1.0,
-			"Computer & B\u00fcro": 1.0
+			"Beach": 68.0,
+			"Half Board": 1.0,
+			"Junior Suite": 68.0
 		},
-		"campaign": {
-			"": 208.0,
-			"100 Jahre Bauknecht": 68.0,
-			"Alles im gr\u00fcnen Bereich!": 1.0
+		"hotel": {
+			"Sani Asterias": 10,
+			"Sani Club": 20,
+			"Sani Dunes": 30
+		},
+		"board": {
+			"Half Board": 80
+		},
+		"room_type": {
+			"Junior Suite": 40
+		},
+		"interests": {
+			"Beach": 30,
+			"ECO": 20
+		}
+		"view": {
+			"Beach Front": 50,
+			"Pool View": 20
+		},
+		"trip_type": {
+			"Couples": 50
 		}
 	}
 }
