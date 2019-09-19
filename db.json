@@ -2,7 +2,7 @@
 	"affinities": {
 		"categories": {
 			"Beach": 68.0,
-			"Half Board": 1.0,
+			"Half Board": 10,
 			"Junior Suite": 68.0
 		},
 		"hotel": {
