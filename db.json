@@ -1,31 +1,14 @@
 {
 	"affinities": {
+		"brand": {
+			"benuta NATURALS": 100.0,
+			"benuta KIDS": 30.0,
+			"benuta CLASSIC": 10.0
+		},
 		"categories": {
-			"Beach": 68.0,
-			"Half Board": 10,
-			"Junior Suite": 68.0
-		},
-		"hotel": {
-			"Sani Asterias": 10,
-			"Sani Club": 20,
-			"Sani Dunes": 30
-		},
-		"board": {
-			"Half Board": 80
-		},
-		"room_type": {
-			"Junior Suite": 40
-		},
-		"interests": {
-			"Beach": 30,
-			"ECO": 20
-		},
-		"view": {
-			"Beach Front": 50,
-			"Pool View": 20
-		},
-		"trip_type": {
-			"Couples": 50
+			"Vintage Teppiche": 100.0,
+			"Moderne Teppiche": 70.0,
+			"Klassische Teppiche": 10.0,
 		}
 	}
 }
