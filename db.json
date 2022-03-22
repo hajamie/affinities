@@ -1,14 +1,12 @@
 {
-	"affinities": {
-		"brand": {
-			"benuta NATURALS": 100.0,
-			"benuta KIDS": 30.0,
-			"benuta CLASSIC": 10.0
-		},
-		"categories": {
-			"Vintage Teppiche": 100.0,
-			"Moderne Teppiche": 70.0,
-			"Klassische Teppiche": 10.0
-		}
+	"brand": {
+		"benuta NATURALS": 100.0,
+		"benuta KIDS": 30.0,
+		"benuta CLASSIC": 10.0
+	},
+	"categories": {
+		"Vintage Teppiche": 100.0,
+		"Moderne Teppiche": 70.0,
+		"Klassische Teppiche": 10.0
 	}
 }
