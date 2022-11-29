@@ -1,0 +1,19 @@
+{
+"Class":
+    {
+    "HIIT CIRCUIT": 50.0,
+    "HIIT the Bike": 40.0,
+    "Build'n Burn": 20.0
+    },
+"Length":
+    {
+    "30-60 min": 50.0,
+    "60-90 min": 15.0
+    },
+"Type":
+    {
+    "Fitness": 40.0,
+    "Strength": 35.0,
+    "Intensity": 50.0
+    }
+}
