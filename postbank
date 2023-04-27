@@ -1,0 +1,15 @@
+{
+   "Product":{
+      "Credit cards":100.0,
+      "Loans":10.0
+   },
+   "Card type":{
+      "standard":80.0
+   },
+   "Credit amount":{
+      "low":80.0
+   },
+    "Customer type":{
+      "Individual":80.0
+   }
+}
