@@ -1,0 +1,15 @@
+{
+   "Product":{
+      "Credit cards":100.0,
+      "Pensions":10.0
+   },
+   "Card type":{
+      "Premium":80.0
+   },
+   "Credit amount":{
+      "High":80.0
+   },
+    "Customer type":{
+      "Individual":80.0
+   }
+}
