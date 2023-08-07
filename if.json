@@ -1,0 +1,9 @@
+{
+   "Product":{
+      "Car insurance":100.0,
+      "Home insurance":50.0
+   },
+    "Customer type":{
+      "Private":80.0
+   }
+}
