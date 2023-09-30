@@ -1,0 +1,14 @@
+{
+   "Categories":{
+      "Culture":100.0,
+      "Meal tickets":30.0
+   },
+    "Gender":{
+      "Men":80.0,
+      "Women":20.0
+   },
+    "Price Level":{
+      "Medium":75.0,
+      "Low":30.0
+   }
+}
