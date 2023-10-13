@@ -1,0 +1,14 @@
+{
+   "Categories":{
+      "Beauty":100.0,
+      "Activities":30.0
+   },
+    "Gender":{
+      "Men":20.0,
+      "Women":80.0
+   },
+    "Price Level":{
+      "Medium":75.0,
+      "Low":30.0
+   }
+}
