@@ -1,0 +1,24 @@
+{
+    "categories": {
+        "women": 36.0,
+        "the essentials": 32.0,
+        "big size": 4.0
+    },
+    "priceLevel": {
+        "Low": 36.0
+    },
+    "discounted": {
+        "No": 36.0
+    },
+  	"brand": {
+  		"NIKE": 100.0,
+  		"ULLA POPKEN": 20.0,
+      "ETAM": 24.0,
+      "LA REDOUTE COLLECTIONS": 12.0
+  	},
+    "color": {
+        "White": 16.0,
+        "Black": 12.0,
+        "Grey": 8.0
+    }
+}
