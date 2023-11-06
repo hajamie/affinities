@@ -1,0 +1,12 @@
+{
+	"brand": {
+		"Nike": 100.0,
+		"ULLA POPKEN": 20.0,
+		"ANNE WEYBURN": 10.0
+	},
+	"categories": {
+		"Femme": 100.0,
+		"Déco": 70.0,
+		"Vêtements": 10.0
+	}
+}
